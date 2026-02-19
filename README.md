@@ -66,7 +66,7 @@ Dynamic memory usage
 
 Clone the repository:
 
-git clone https://github.com/your-username/cafe-management-system.git
+git clone https://github.com/brindajadwani/Cafe-Management-System
 
 
 Navigate to project directory:
